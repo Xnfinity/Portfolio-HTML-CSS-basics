@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<link rel ="stylesheet" href="theme.css">
+<body>
+    <div class ="section1">
+        <h1>Khaled Aboulnaga</h1>
+        <p>Computer & AI Engineering Junior <br> The University Of East London | The Faculty of Engineering, Ain Shams University</p></p>
+        <p>RAYA IT   |   CIB   |  UEL </p>
+        <button onclick="alert('Not Implemented yet')">More Info</button>
+        
+    </div>
+
+
+
+    <div class = "AB">
+        <h2>About Me</h2>
+        <p>
+            Polymath - to be an expert in multiple feilds is what I aspire to be.<br> Ex-RAYA REST API intern | CIB Gen AI</br>
+        </p>
+    </div>
+
+    <div class = "Projects">
+        <h2>Projects</h2>
+        <div class="flex">
+
+        <div>  <h1>RAYA</h1>
+        <p>REST API </p>
+        <button onclick="alert('Not Implemented yet')">More Info</button> </div>
+         
+        <div>  <h1>CIB</h1>
+        <p>Gen AI</p>
+        <button onclick="alert('Not Implemented yet')">More Info</button> </div>
+
+        <div>  <h1>UEL</h1>
+        <p>Big data</p>
+        <button onclick="alert('Not Implemented yet')">More Info</button> </div>
+        </div>
+
+    </div>
+
+
+    <div class = "contact">
+        <input type="text" placeholder="Name">
+        <input type="text" placeholder="Email">
+        <input type="Message" placeholder="Message">
+        <button onclick="alert('Not Implemented yet')">Send Message</button> 
+    </div>
+</body>
+
+</html>

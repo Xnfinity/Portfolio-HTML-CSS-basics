@@ -1,0 +1,40 @@
+.section1{
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+                background-color: #111010;
+                color: #ffffff;
+}
+body {
+       background-color: rgb(255, 255, 255);
+                
+}
+ button {
+        border-radius: 5px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(182, 183, 183);
+ }
+
+ .AB{
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif; 
+                color: #040404;
+}
+.Projects{
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+                color: #050505;
+}
+
+.flex{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.contact{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
